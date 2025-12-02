@@ -1,15 +1,6 @@
 <div align="center">
   
-  <!-- Header Image (Placeholder - You can replace this with a custom banner) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=51&descAlign=62" width="100%"/>
 
-  <!-- Title / Name -->
-  <h1>Hi there, I'm <a href="https://github.com/MrCaniwes">MrCaniwes</a>! 👋</h1>
-  
-  <!-- Subtitle / Typing Effect -->
-  <h3>
-    <i>"Bunu yazan tosun okuyana kosun"</i>
-  </h3>
 
   <!-- Badges / Roles -->
   <p>
@@ -18,11 +9,31 @@
     <img src="https://img.shields.io/badge/Electron-Developer-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron Developer" />
     <img src="https://img.shields.io/badge/UI%2FUX-Designer-ff69b4?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designer" />
   </p>
+</div>
 
-  <br/>
+<br/>
+
+<!-- About Me Section -->
+### 👨‍💻 Hakkımda
+
+Merhaba! Ben MrCaniwes. Yazılım geliştirme dünyasında geniş bir yelpazede projeler üreten tutkulu bir geliştiriciyim. Oyun modlamadan masaüstü uygulamalarına, web servislerinden kullanıcı arayüzü tasarımına kadar birçok alanda aktif olarak çalışıyorum. Kod yazarken estetik ve performansı bir arada sunmayı hedefliyorum.
+
+<br/>
+
+<!-- Languages & Frameworks Section -->
+### 💻 Diller & Frameworkler
+
+| Teknoloji | Detaylar |
+| :--- | :--- |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | **WPF, .NET, Sunucu & Launcher Projeleri** <br/> Masaüstü uygulamaları ve oyun sunucusu eklentileri geliştiriyorum. |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | **API + WebSocket Servisleri** <br/> Hızlı ve ölçeklenebilir backend çözümleri üretiyorum. |
+
+<br/>
+
+<div align="center">
 
   <!-- Affiliations -->
-  <h3>🚀 Affiliations</h3>
+  <h3>🚀 Topluluklar & Projeler</h3>
   <p>
     <a href="https://instagram.com/yazilim.shop">
       <img src="https://img.shields.io/badge/@yazilim.shop-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="yazilim.shop"/>
@@ -45,7 +56,7 @@
     </tr>
   </table>
 
-  <!-- Footer Image (Optional) -->
+  <!-- Footer Image -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=footer" width="100%"/>
 
 </div>
