@@ -39,7 +39,7 @@ Merhaba! Ben MrCaniwes. Yazılım geliştirme dünyasında geniş bir yelpazede 
       <img src="https://img.shields.io/badge/@yazilim.shop-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="yazilim.shop"/>
     </a>
     &nbsp; | &nbsp;
-    <b>Mellivora Network</b>
+    <img src="https://img.shields.io/badge/@Mellivora Network-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Mellivora Network"/>
   </p>
 
   <br/>
@@ -55,5 +55,8 @@ Merhaba! Ben MrCaniwes. Yazılım geliştirme dünyasında geniş bir yelpazede 
       </td>
     </tr>
   </table>
+
+  <!-- Footer Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=footer" width="100%"/>
 
 </div>
