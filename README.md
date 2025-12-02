@@ -20,11 +20,14 @@ Merhaba! Ben MrCaniwes. Yazılım geliştirme dünyasında geniş bir yelpazede 
 
 <br/>
 
-<!-- Languages & Frameworks Section -->
-| **Core** | **Frameworks & Tools** |
-| :---: | :---: |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) <br/> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) <br/> ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) <br/> ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white) |
 
+<!-- Languages & Frameworks Section -->
+### 💻 Diller & Frameworkler
+
+| Teknoloji | Detaylar |
+| :--- | :--- |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | **WPF, .NET, Sunucu & Launcher Projeleri** <br/> Masaüstü uygulamaları ve oyun sunucusu eklentileri geliştiriyorum. |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | **API + WebSocket Servisleri** <br/> Hızlı ve ölçeklenebilir backend çözümleri üretiyorum. |
 <br/>
 
 <div align="center">
