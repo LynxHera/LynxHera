@@ -48,13 +48,15 @@ Merhaba! Ben MrCaniwes. Yazılım geliştirme dünyasında geniş bir yelpazede 
   <table align="center">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=MrCaniwes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=LynxHera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCaniwes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynxHera&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <!-- Footer Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=footer" width="100%"/>
+
 </div>
